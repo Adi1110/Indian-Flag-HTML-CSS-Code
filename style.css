@@ -6,7 +6,7 @@ body{
     display: block;
     margin-top: 18%;
 }
-
+/* providing all together */
 .top, .bottom, .middle {
     height: 80px;
     width: 450px;
