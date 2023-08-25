@@ -1,0 +1,93 @@
+body{
+    background-color: lightgrey;
+}
+
+.flag {
+    display: block;
+    margin-top: 18%;
+}
+
+.top, .bottom, .middle {
+    height: 80px;
+    width: 450px;
+    position: relative;
+    margin-left: 35%;
+}
+
+.top {
+    background-color: #ff9933;
+}
+
+.middle {
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+}
+
+.bottom {
+    background-color: #138808;
+}
+
+.ashokChakra {
+    height: 80px;
+    width: 80px;
+    border-radius: 90%;
+    outline: 2px solid darkblue;
+    position: relative;
+}
+
+.lines {
+    position: absolute;
+    height: 100%;
+    width: 2px;
+    background-color: darkblue;
+    left: 50%;
+}
+
+.lines-1 {
+    transform: rotate(15deg);
+}
+
+.lines-2 {
+    transform: rotate(30deg);
+}
+
+.lines-3 {
+    transform: rotate(45deg);
+}
+
+.lines-4 {
+    transform: rotate(60deg);
+}
+
+.lines-5 {
+    transform: rotate(78deg);
+}
+
+.lines-6 {
+    transform: rotate(90deg);
+}
+
+.lines-7 {
+    transform: rotate(105deg);
+}
+
+.lines-8 {
+    transform: rotate(120deg);
+}
+
+.lines-9 {
+    transform: rotate(135deg);
+}
+
+.lines-10 {
+    transform: rotate(150deg);
+}
+
+.lines-11 {
+    transform: rotate(165deg);
+}
+
+.lines-12 {
+    transform: rotate(180deg);
+}
